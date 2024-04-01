@@ -64,7 +64,7 @@ RUN_SCRIPT_URL="https://raw.githubusercontent.com/chunkmonk2/self-host/master/ru
 # Please do not create pull requests modifying the version numbers.
 COREVERSION="2024.3.0"
 WEBVERSION="2024.3.0"
-KEYCONNECTORVERSION="2023.12.0"
+KEYCONNECTORVERSION="2024.3.1"
 
 echo "bitwarden.sh version $COREVERSION"
 docker --version
