@@ -62,8 +62,8 @@ BITWARDEN_SCRIPT_URL="https://raw.githubusercontent.com/chunkmonk2/self-host/mas
 RUN_SCRIPT_URL="https://raw.githubusercontent.com/chunkmonk2/self-host/master/run.sh"
 
 # Please do not create pull requests modifying the version numbers.
-COREVERSION="2024.6.1"
-WEBVERSION="2024.6.1"
+COREVERSION="2024.6.2"
+WEBVERSION="2024.6.3"
 KEYCONNECTORVERSION="2024.4.0"
 
 echo "bitwarden.sh version $COREVERSION"
