@@ -61,8 +61,8 @@ else
 fi
 
 SCRIPTS_DIR="$OUTPUT/scripts"
-BITWARDEN_SCRIPT_URL="https://raw.githubusercontent.com/chunkmonk2/self-host/refs/heads/v2025.1.0-branch/bitwarden.sh"
-RUN_SCRIPT_URL="https://raw.githubusercontent.com/chunkmonk2/self-host/refs/heads/v2025.1.0-branch/run.sh"
+BITWARDEN_SCRIPT_URL="https://raw.githubusercontent.com/chunkmonk2/self-host/refs/heads/v2025.11.1-branch/bitwarden.sh"
+RUN_SCRIPT_URL="https://raw.githubusercontent.com/chunkmonk2/self-host/refs/heads/v2025.11.1-branch/run.sh"
 
 # Please do not create pull requests modifying the version numbers.
 COREVERSION="2025.11.1"
